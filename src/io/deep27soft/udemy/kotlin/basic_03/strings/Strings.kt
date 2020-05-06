@@ -1,4 +1,4 @@
-package io.deep27soft.udemy.kotlin.basic.strings
+package io.deep27soft.udemy.kotlin.basic_03.strings
 
 fun main(args: Array<String>) {
 

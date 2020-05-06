@@ -1,6 +1,6 @@
-package io.deep27soft.udemy.kotlin.basic.stringtemplates
+package io.deep27soft.udemy.kotlin.basic_03.stringtemplates
 
-import io.deep27soft.udemy.kotlin.basic.equality.Employee
+import io.deep27soft.udemy.kotlin.basic_03.equality.Employee
 
 fun main(args: Array<String>) {
 

@@ -1,4 +1,4 @@
-package io.deep27soft.udemy.kotlin.basic.declarations
+package io.deep27soft.udemy.kotlin.basic_03.declarations
 
 typealias EmployeeSet = Set<Employee>
 

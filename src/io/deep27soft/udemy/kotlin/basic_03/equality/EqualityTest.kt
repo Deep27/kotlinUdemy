@@ -1,4 +1,4 @@
-package io.deep27soft.udemy.kotlin.basic.equality
+package io.deep27soft.udemy.kotlin.basic_03.equality
 
 fun main(args: Array<String>) {
 
